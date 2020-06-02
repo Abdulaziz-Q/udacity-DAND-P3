@@ -1,23 +1,28 @@
-# Project: Investigate a Dataset TMDb movie data
+# Project 3: Analyze A/B Test Results
 
+### Introduction
 For this project, I will be working to understand the results of an A/B test run by an e-commerce website.
 The goal is to work through this notebook to help the company understand if they should implement the new page,
 keep the old page, or perhaps run the experiment longer to make their decision.
 
-### TMDb movie data
-This data set contains information about 10,000 movies collected from The Movie Database (TMDb).
+### Statistics used:
+* Probability
+* A/B Test
+* Regression
 
 ### Tech stack:
 Tools I used to complete the project:
 * [Anaconda] used to manage packages and environments for use with Python.
 * [Jupyter] used to data cleaning and transformation, numerical simulation and data visualization.
 
+
 ### Main findings:
-* The most popular titles
-* The length that most of popularity prefer
-* Movies has the highest profit
-* Movie has the highest profit and the lowest
-* The most vote average with most vote count
+* There is no statistical significant that the new page is better than the old page
+* The company should keep the old page
+* The company should run the experiment about 20 days longer or starts develop another new page
+* There are no statistical significant relationship between each country with converts
+
+
 
 [anaconda]: <https://www.anaconda.com/>
 [jupyter]: <https://jupyter.org/>
